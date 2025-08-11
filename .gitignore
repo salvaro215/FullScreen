@@ -1,0 +1,11 @@
+# Archivos binarios
+*.exe
+*.o
+*.obj
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Carpetas del sistema
+.vscode/
